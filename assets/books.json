@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": "1121429554",
+      "title": "Đắc Nhân Tâm",
+      "publishing": "Văn Học",
+      "artist": "Dale Carnegie",
+      "source": "https://bookapp-c6768.web.app/dacnhantam.txt",
+      "image": "https://nhasachmienphi.com/wp-content/uploads/dac-nhan-tam.jpg",
+      "favorite": "false",
+      "replay": 0
+    },
+    {
+      "id": "1130295694",
+      "title": "Cây Cam Ngọt Của Tôi",
+      "publishing": "Chẳng Thể Tìm Được Em 2",
+      "artist": "José Mauro de Vasconcelos",
+      "source": "https://bookapp-c6768.web.app/caycamngot.txt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLT_2rjZ30psJYUZnAc-EKeQ7atzhCoaJpJA&s",
+      "favorite": "false",
+      "replay": 0
+    },
+    {
+      "id": "1121429554",
+      "title": "Nhật Ký Trong Tù",
+      "publishing": "Văn Học",
+      "artist": "Hồ Chí Minh",
+      "source": "https://bookapp-c6768.web.app/nhatkytrongtu.txt",
+      "image": "https://product.hstatic.net/200000017360/product/bia_nhat_ky_trong_tu_file_in-b1_85cc447380214791a8a7d74603ef46a1.jpg",
+      "favorite": "false",
+      "replay": 0
+    },
+    {
+      "id": "1121429554",
+      "title": "Nhật Ký Đặng Thùy Trâm",
+      "publishing": "Hội Nhà Văn",
+      "artist": "Đặng Thùy Trâm",
+      "source": "https://bookapp-c6768.web.app/nhatkydangtt.txt",
+      "image": "https://lh4.googleusercontent.com/proxy/YGJqvnPBa06PqciHA6UYP736SbepaqOnm6X6ta2go9o4cBdHRVIQfj3KetVU4h65hAgIBQcRvS_BSi2ydAzSiS6W0cAu4wFQgbtwFLLR8AIpUo4dpEc0h3cso98t1K6N5ejWbLIEmnlioa-0sqMPmUx-",
+      "favorite": "false",
+      "replay": 0
+    }
+  ]
+}

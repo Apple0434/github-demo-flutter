@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638450862627",
+    "project_id": "bookapp-c6768",
+    "storage_bucket": "bookapp-c6768.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638450862627:android:d92cdd9e0ee6e3fe863f96",
+        "android_client_info": {
+          "package_name": "com.example.booksapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIxQFwYeKIspFR6VdJADuKkNByVkWXGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
